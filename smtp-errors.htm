@@ -1,0 +1,235 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+<title>SMTP Error Codes</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<meta name="Microsoft Border" content="b, default">
+</head>
+
+<body><script src="https://www.w3counter.com/tracker.js?id=144609"></script><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><!--msnavigation--><td valign="top">
+<div id="container" style="width: 780px">
+
+<div id="header">
+
+
+		<p></p><img border="0" src="email-extractor.png" width="130" height="129" align="left" vspace="10" hspace="10">
+	<br><br>
+		<h1><font size="6"><b>SMTP Reply Error Codes: Simple Mail Transfer 
+		Protocol Server Status Codes</b></font></h1>
+		<p><br>
+
+
+		</p>
+
+
+	<div id="menu">
+		<a href="/">EMAIL EXTRACTOR</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="download.htm">DOWNLOAD</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="purchase.htm">PURCHASE</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="products.htm">OTHER TOOLS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="support.htm">SUPPORT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	</div>
+
+
+
+
+
+
+</div>
+<div id="main">
+
+<table border="0"  cellspacing="3" cellpadding="0" id="table2">
+
+
+	<tr>
+		<td>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>SMTP</b>, or <b>Simple Mail 
+		Transfer Protocol</b>, is used for sending email messages. An SMTP error 
+		usually indicates a failure to deliver them. You need to know what 
+		caused the problem. All SMTP codes consist of three digits, such as <i>
+		550</i>, <i>221</i>, <i>354</i>, and so on. </span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">&nbsp;</p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US">Some SMTP codes do not indicate an 
+		error but only provide information about the sending status. To 
+		understand what a particular error code means, you should know that each 
+		digit has a special meaning. &nbsp;</span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">&nbsp;</p>
+		<h2 style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US">The first digit tells you whether your 
+		command was duly received and processed. This digit may have five 
+		different meanings:</span></font></h2>
+		<ul>
+			<li>
+			<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+			<font size="2"><span lang="en-US">The mail server has received your 
+			command but hasn’t taken any action. It’s waiting for a confirmative 
+			message. </span></font></li>
+			<li>
+			<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+			<font size="2"><span lang="en-US">The mail server has fulfilled your 
+			request successfully. No errors occurred. </span></font></li>
+			<li>
+			<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+			<font size="2"><span lang="en-US">The mail server has recognized 
+			your request but needs more data to fulfill it. </span></font></li>
+			<li>
+			<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+			<font size="2"><span lang="en-US">The mail server has encountered a 
+			temporary failure. If you repeated the command without any 
+			modifications, try sending your message again, and you may succeed!
+			</span></font></li>
+			<li>
+			<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+			<font size="2"><span lang="en-US">The mail server has encountered a 
+			permanent failure. Your request cannot be processed. </span></font>
+			</li>
+		</ul>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US">If you see a code beginning with 4 or 
+		5, it means that your message cannot be sent until you fix the problem.</span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">&nbsp;</p>
+		<h2 style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US">The second digit can mean:</span></font></h2>
+		<ul>
+			<li>
+			<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+			<font size="2"><span lang="en-US">Syntax error </span></font></li>
+			<li>
+			<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+			<font size="2"><span lang="en-US">Information reply (for example, if 
+			help on using the mail server was requested) </span></font></li>
+			<li>
+			<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+			<font size="2"><span lang="en-US">Connection state </span></font>
+			</li>
+			<li>
+			<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+			<font size="2"><span lang="en-US">Mail server state</span></font></li>
+		</ul>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US">The last digit indicates the state of 
+		transmission.&nbsp;</span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">&nbsp;</p>
+		<h2 style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US">Here are the most important SMTP error 
+		codes:</span></font></h2>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">&nbsp;</p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>421</b> Service not available: 
+		Transmission channel is closed. </span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>450</b> Requested action not taken: 
+		Email box is not accessible. </span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>451</b> Requested action aborted: A 
+		processing error has occurred. </span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>452</b> Requested actions not 
+		taken: Insufficient system resources. </span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>500</b> Syntax error: Command not 
+		recognized. </span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>501</b> Syntax error in parameters 
+		or arguments. </span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>502</b> Command not implemented.
+		</span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>503</b> Bad sequence of commands.
+		</span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>504</b> Command parameter not 
+		implemented. </span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>550</b> Requested actions not 
+		taken: Email box is unavailable.</span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>551</b> User not local; please try 
+		again. </span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>552</b> Requested mail actions 
+		aborted: Exceeded storage allocation. </span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>553</b> Requested action not taken: 
+		Mailbox name invalid. </span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>554</b> Transaction failed. </span>
+		</font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">&nbsp;</p>
+		<h2 style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US">Here are some other codes that tell 
+		you what is happening to your messages:</span></font></h2>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">&nbsp;</p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>211</b> System Status message or 
+		System Help Reply.</span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>214</b> Help Reply message. </span>
+		</font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>220</b> &lt;Server Name&gt; service is 
+		running. </span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>221</b> The domain service is 
+		closing the transmission channel. </span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>250</b> Requested mail action 
+		completed OK. </span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>251</b> User not local, will 
+		forward. </span></font></p>
+		<p style="margin-top: 0.02in; margin-bottom: 0.02in; line-height: 100%">
+		<font size="2"><span lang="en-US"><b>354</b> Start mail input. End with 
+		&lt;CRLF&gt;.&lt;CRLF&gt;</span></font></p>
+		<h4 align="left">&nbsp;</h4>
+		<p align="left">&nbsp;</p>
+		<p align="left">&nbsp;</p>
+		<p align="left">&nbsp;</p>
+		<p align="left">&nbsp;</p>
+		</td>
+
+
+
+
+
+</tr>
+</table>
+</div>
+</div>
+
+
+
+<!--msnavigation--></td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+
+<table border="0" width="100%" id="table3">
+	<tr>
+		<td align="center">
+		<p align="center"><font face="Georgia" size="2"><br>
+		<i>(c) Copyright 2011-2022 ExtraSpy Software. All rights reserved. </i>
+		<a href="/">Email Extractor</a> 
+		<a href="manual.htm">Quick quide</a><span lang="ru"> </span>
+		
+		 </font></p>
+		<p align="center"><font face="Georgia" size="2">
+		<a href="free-email-extractor.htm">Free Email Extractor</a> 
+		<a href="buy-email-lists.htm">Buy Email Lists</a> 
+		<a href="email-grabber.htm">Email Grabber</a> 
+		<a href="email-lists.htm">Email Lists</a> 
+		<a href="email-marketing.htm">Email Marketing</a> 
+		<a href="online-email-extractor.htm">Online Email Extractors</a></font></td>
+	</tr>
+</table>
+<p>&nbsp;</p>
+
+</td></tr><!--msnavigation--></table></body>
+
+</html>
