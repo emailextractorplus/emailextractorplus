@@ -2,7 +2,7 @@
 <XML_DIZ_INFO>
   <MASTER_PAD_VERSION_INFO>
     <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
-    <MASTER_PAD_EDITOR>RoboSoft 4.0.797</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR>RoboSoft 4.0.804</MASTER_PAD_EDITOR>
     <MASTER_PAD_EDITOR_URL>http://robosoft.rudenko.com</MASTER_PAD_EDITOR_URL>
     <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
   </MASTER_PAD_VERSION_INFO>
@@ -33,15 +33,15 @@
     <Contact_Info>
       <Contact_First_Name>Olga</Contact_First_Name>
       <Contact_Last_Name>Davydova</Contact_Last_Name>
-      <Contact_Email>emailextractorplus@gmail.com</Contact_Email>
+      <Contact_Email>kogan82@gmail.com</Contact_Email>
       <Author_First_Name>Olga</Author_First_Name>
       <Author_Last_Name>Davydova</Author_Last_Name>
-      <Author_Email>emailextractorplus@gmail.com</Author_Email>
+      <Author_Email>kogan82@gmail.com</Author_Email>
     </Contact_Info>
     <Support_Info>
-      <Sales_Email>emailextractorplus@gmail.com</Sales_Email>
-      <Support_Email>emailextractorplus@gmail.com</Support_Email>
-      <General_Email>emailextractorplus@gmail.com</General_Email>
+      <Sales_Email>kogan82@gmail.com</Sales_Email>
+      <Support_Email>kogan82@gmail.com</Support_Email>
+      <General_Email>kogan82@gmail.com</General_Email>
       <Sales_Phone>+79026643265</Sales_Phone>
       <Support_Phone>+79026643265</Support_Phone>
       <General_Phone>+79026643265</General_Phone>
@@ -61,7 +61,7 @@
     <NewsFeed_Type>RSS 0.90</NewsFeed_Type>
     <NewsFeed_Language>English</NewsFeed_Language>
     <NewsFeed_Purpose>News</NewsFeed_Purpose>
-    <NewsFeed_Author_Email>emailextractorplus@gmail.com</NewsFeed_Author_Email>
+    <NewsFeed_Author_Email>kogan82@gmail.com</NewsFeed_Author_Email>
     <NewsFeed_Author_First_Name>Olga</NewsFeed_Author_First_Name>
     <NewsFeed_Author_Last_Name>Davydova</NewsFeed_Author_Last_Name>
     <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
@@ -78,12 +78,12 @@
     <Site_DESCRIPTION>This PAD extension allows you to add your site info into your PAD file. This info can be used by site submission software or by web directories themselves.</Site_DESCRIPTION>
     <Site_Site_Title>Email Grabber Plus</Site_Site_Title>
     <Site_Site_URL>http://www.emailextractorplus.com/</Site_Site_URL>
-    <Site_Contact_Email>emailextractorplus@gmail.com</Site_Contact_Email>
+    <Site_Contact_Email>kogan82@gmail.com</Site_Contact_Email>
     <Site_Contact_First_Name>Olga</Site_Contact_First_Name>
     <Site_Contact_Last_Name>Davydova</Site_Contact_Last_Name>
     <Site_Description_100>Extract emails from any website, document, folder, outlook express, google</Site_Description_100>
     <Site_Description_250>Email Grabber Plus is a multifunctional program, designed for extracting email addresses from web pages, text, or HTML files, and also from local directories, disks, Outlook Express, The Bat, browser cache, search engines.</Site_Description_250>
-    <Site_Description_450>Email Grabber Plus is a multifunctional program, designed for extracting email addresses from web pages, text, or HTML files, and also from local directories, disks, Outlook Express, The Bat, browser cache, search engines. . Bulk Email Grabber Plus has various scanning range limitators, which help you extract only those addresses you need, and not every one of them.</Site_Description_450>
+    <Site_Description_450>Email Grabber Plus is a versatile software application created to retrieve email addresses from a variety of sources, including web pages, text and HTML files, local directories, disks, Outlook Express, The Bat, browser cache, and search engines. Bulk Email Grabber Plus provides multiple scanning range limiters, enabling users to extract specific email addresses of interest rather than all available addresses.</Site_Description_450>
     <Site_Keywords>email,Email Grabber Plus,e-mail extractor,mail extractor,email extraction software,e-mail extraction software,e-mail spider,email spider,email harvester,e-mail harvester</Site_Keywords>
   </Site>
   <Program_Info>
@@ -100,9 +100,9 @@
     </File_Info>
     <Program_Name>Email Grabber Plus</Program_Name>
     <Program_Version>5.0</Program_Version>
-    <Program_Release_Month>06</Program_Release_Month>
-    <Program_Release_Day>21</Program_Release_Day>
-    <Program_Release_Year>2022</Program_Release_Year>
+    <Program_Release_Month>03</Program_Release_Month>
+    <Program_Release_Day>20</Program_Release_Day>
+    <Program_Release_Year>2024</Program_Release_Year>
     <Program_Cost_Dollars>49.95</Program_Cost_Dollars>
     <Program_Type>Shareware</Program_Type>
     <Program_Release_Status>Major Update</Program_Release_Status>
@@ -155,9 +155,75 @@
     </Download_URLs>
   </Web_Info>
   <Permissions>
-    <Distribution_Permissions></Distribution_Permissions>
-    <EULA></EULA>
+    <Distribution_Permissions>The trial version of Email Grabber Plus can be freely distributed over the internet in an unchanged form</Distribution_Permissions>
+    <EULA>Please read this End-User License Agreement ("Agreement") carefully before using Email Grabber Plus.
+
+By installing, downloading, copying, accessing, or otherwise using Email Grabber Plus, you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, do not install or use Email Grabber Plus.
+
+1. License Grant: Subject to the terms of this Agreement, Email Grabber Plus grants you a non-exclusive, non-transferable license to use the software for personal or commercial use.
+
+2. Restrictions: You may not distribute, sell, rent, lease, sublicense, or assign Email Grabber Plus. You may not reverse engineer, decompile, disassemble, or modify the software.
+
+3. Intellectual Property: Email Grabber Plus and all related intellectual property rights are owned by Email Grabber Plus. You acknowledge that you are only granted a license to use the software and do not own any rights in the software.
+
+4. Support and Updates: Email Grabber Plus may provide support and updates for the software. The terms of support and update services are at the discretion of Email Grabber Plus.
+
+5. Warranty Disclaimer: Email Grabber Plus is provided "as is" without warranty of any kind. Email Grabber Plus disclaims all warranties, express or implied, including but not limited to the warranties of merchantability and fitness for a particular purpose.
+
+6. Limitation of Liability: In no event shall Email Grabber Plus be liable for any damages arising out of the use or inability to use the software.
+
+7. Governing Law: This Agreement shall be governed by and construed in accordance with the laws of [Jurisdiction].
+
+By installing or using Email Grabber Plus, you agree to be bound by the terms of this Agreement. If you have any questions or concerns about this Agreement, please contact Email Grabber Plus.
+
+This Agreement constitutes the entire agreement between you and Email Grabber Plus regarding the use of the software and supersedes any prior agreements.</EULA>
   </Permissions>
+  <Press_Release>
+    <Keywords>email,Email Grabber Plus,e-mail extractor,mail extractor,email extraction software,e-mail extraction software,e-mail spider,email spider,email harvester,e-mail harvester</Keywords>
+    <Related_URL>https://emailextractorplus.github.io/</Related_URL>
+    <Press_Release_Plain>For Immediate Release
+
+Introducing Email Grabber Plus: Your Ultimate Email Extraction Solution
+
+We are thrilled to announce the launch of Email Grabber Plus, a cutting-edge software designed to revolutionize the process of extracting email addresses from various sources. Whether you need to retrieve email addresses from web pages, text or HTML files, local directories, disks, Outlook Express, The Bat, browser cache, or search engines, Email Grabber Plus has got you covered.
+
+Key Features of Email Grabber Plus:
+
+Multifunctional program for extracting email addresses effortlessly
+Customizable scanning range limitators for precision extraction
+User-friendly interface for easy navigation and operation
+Bulk extraction capabilities for efficient processing
+Compatible with a wide range of platforms and sources
+Say goodbye to tedious manual email extraction tasks and embrace the efficiency and accuracy of Email Grabber Plus. Simplify your workflow and boost productivity with this advanced email extraction solution.
+
+For more information about Email Grabber Plus and to get started today, visit our website.
+
+Contact: Email Grabber Plus Team Email: emailextractorplus@gmail.com Website: https://emailextractorplus.github.io/
+
+Note: This press release is distributed on behalf of Email Grabber Plus</Press_Release_Plain>
+    <Headline>Introducing Email Grabber Plus: Your Ultimate Email Extraction Solution</Headline>
+    <Press_Release>For Immediate Release
+
+Introducing Email Grabber Plus: Your Ultimate Email Extraction Solution
+
+We are thrilled to announce the launch of Email Grabber Plus, a cutting-edge software designed to revolutionize the process of extracting email addresses from various sources. Whether you need to retrieve email addresses from web pages, text or HTML files, local directories, disks, Outlook Express, The Bat, browser cache, or search engines, Email Grabber Plus has got you covered.
+
+Key Features of Email Grabber Plus:
+
+Multifunctional program for extracting email addresses effortlessly
+Customizable scanning range limitators for precision extraction
+User-friendly interface for easy navigation and operation
+Bulk extraction capabilities for efficient processing
+Compatible with a wide range of platforms and sources
+Say goodbye to tedious manual email extraction tasks and embrace the efficiency and accuracy of Email Grabber Plus. Simplify your workflow and boost productivity with this advanced email extraction solution.
+
+For more information about Email Grabber Plus and to get started today, visit our website.
+
+Contact: Email Grabber Plus Team Email: emailextractorplus@gmail.com Website: https://emailextractorplus.github.io/
+
+Note: This press release is distributed on behalf of Email Grabber Plus</Press_Release>
+    <Summary>We are thrilled to announce the launch of Email Grabber Plus, a cutting-edge software designed to revolutionize the process of extracting email addresses.</Summary>
+  </Press_Release>
   <AppStore>
     <AppStore_AppID></AppStore_AppID>
     <AppStore_Category></AppStore_Category>
@@ -178,7 +244,7 @@
       <Char_Desc_80>Extract emails from any website, document, folder, outlook express, google</Char_Desc_80>
       <Char_Desc_250>Email Grabber Plus is a multifunctional program, designed for extracting email addresses from web pages, text, or HTML files, and also from local directories, disks, Outlook Express, The Bat, browser cache, search engines.</Char_Desc_250>
       <Char_Desc_450>Email Grabber Plus is a multifunctional program, designed for extracting email addresses from web pages, text, or HTML files, and also from local directories, disks, Outlook Express, The Bat, browser cache, search engines. . Bulk Email Grabber Plus has various scanning range limitators, which help you extract only those addresses you need, and not every one of them.</Char_Desc_450>
-      <Char_Desc_2000>Email Grabber Plus is a multifunctional program, designed for extracting email addresses from web pages, text, or HTML files, and also from local directories, disks, Outlook Express, The Bat, browser cache, search engines. . Bulk Email Grabber Plus has various scanning range limitators, which help you extract only those addresses you need, and not every one of them. The Email Grabber Plus has a built-in HTML analyzer, which allows using this program on computers which don't have Internet Explorer. However, Email Grabber Plus is fully compatible with all web-servers and proxies.</Char_Desc_2000>
+      <Char_Desc_2000>Email Grabber Plus is a versatile program designed to extract email addresses from web pages, text, and HTML files, as well as local directories, disks, Outlook Express, The Bat, browser cache, and search engines. Bulk Email Grabber Plus features various scanning range limiters that enable you to extract only the addresses you require, filtering out unnecessary ones. Moreover, Email Grabber Plus includes a built-in HTML analyzer, allowing you to utilize the program on computers lacking Internet Explorer. Additionally, Email Grabber Plus is fully compatible with all web servers and proxies.</Char_Desc_2000>
     </English>
   </Program_Descriptions>
 </XML_DIZ_INFO>
